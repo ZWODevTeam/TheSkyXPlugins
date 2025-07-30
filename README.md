@@ -30,7 +30,7 @@ Use precompiled versions without compiling\!
 
     ```bash
     git clone https://github.com/ZWOAstro/ZWO_SkyXPlugins.git
-    cd ZWO_SkyXPlugins
+    cd TheSkyXPlugins
     ```
 
 2.  **Linux/macOS Build**
