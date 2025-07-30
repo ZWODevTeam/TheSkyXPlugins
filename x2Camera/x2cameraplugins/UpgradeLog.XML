@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="x2camera">
+</Property><Property Name="Solution File" Value="D:\TheSkyX Driver Plug Ins\cameraplugins\x2camera\x2camera.sln">
+</Property><Property Name="Date" Value="Friday, May 24, 2013">
+</Property><Property Name="Time" Value="10:16:37 AM">
+</Property></Properties><Event ErrorLevel="0" Project="x2camera" Source="x2camera.vcproj" Description="Converting project file 'D:\TheSkyX Driver Plug Ins\cameraplugins\x2camera\x2camera.vcproj'.">
+</Event><Event ErrorLevel="2" Project="x2camera" Source="x2camera.vcproj" Description="End tag 'xs:choice' does not match the start tag 'xs:sequence'.&#xA;">
+</Event><Event ErrorLevel="2" Project="D:\TheSkyX Driver Plug Ins\cameraplugins\x2camera\x2camera.vcproj" Source="" Description="The following error has occurred during XML parsing:&#xA;&#xA;File: D:\TheSkyX Driver Plug Ins\cameraplugins\x2camera\x2camera.vcproj&#xA;Line: 5&#xA;Column: 21&#xA;Error Message:&#xA;Invalid pointer&#xA;&#xA;The file 'D:\TheSkyX Driver Plug Ins\cameraplugins\x2camera\x2camera.vcproj' has failed to load.">
+</Event><Event ErrorLevel="2" Project="x2camera" Source="x2camera.vcproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="x2camera" Source="x2camera.vcproj" Description="Not Converted">
+</Event><Event ErrorLevel="2" Project="" Source="x2camera.vcproj" Description="Project upgrade failed.">
+</Event></UpgradeLog>

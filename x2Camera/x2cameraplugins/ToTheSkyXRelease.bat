@@ -1,0 +1,1 @@
+copy "release\x2Camera.dll" "D:\TheSkyX\Resources\Common\PlugIns\CameraPlugIns"

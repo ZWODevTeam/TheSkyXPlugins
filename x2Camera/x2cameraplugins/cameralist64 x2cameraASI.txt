@@ -1,0 +1,1 @@
+2|ZWO|ASICamera| | |x2cameraASI64||1|1|1|

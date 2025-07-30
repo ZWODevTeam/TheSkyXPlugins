@@ -1,0 +1,1 @@
+2|ZWO|EAF focuser| | |x2focuserEAF||1|1|1|
