@@ -1,6 +1,4 @@
-好的，这是您提供的文本的 Markdown 格式版本。
-
-# ZWO\_SkyXPlugins
+# TheSkyXPlugins
 
 ## ZWO device plugin suite for The SkyX astronomy software, supporting Windows, Linux and macOS systems
 
